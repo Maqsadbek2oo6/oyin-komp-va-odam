@@ -14,7 +14,7 @@ class Oyin:
                     break
                 else:
                     if tasodif <son:
-                        print("Katta son kiriting")
+                        print("Katta son kiritdiz")
                         urunish +=1
                     elif tasodif >son:
                         print("Kichik son kiritdiz")
@@ -33,7 +33,7 @@ class Oyin:
                     break
                 else:
                     if tasodif <son:
-                        print("Katta son kiriting")
+                        print("Katta son kiritdiz")
                         urunish +=1
                     elif tasodif >son:
                         print("Kichik son kiritdiz")
@@ -52,7 +52,7 @@ class Oyin:
                     break
                 else:
                     if tasodif <son:
-                        print("Katta son kiriting")
+                        print("Katta son kiritdiz")
                         urunish +=1
                     elif tasodif >son:
                         print("Kichik son kiritdiz")
@@ -71,7 +71,7 @@ class Oyin:
                     break
                 else:
                     if tasodif <son:
-                        print("Katta son kiriting")
+                        print("Katta son kiritdiz")
                         urunish +=1
                     elif tasodif >son:
                         print("Kichik son kiritdiz")
